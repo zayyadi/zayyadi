@@ -52,7 +52,7 @@ Welcome to my little corner of the internet. I’m a **Backend Engineer**, **Dat
 ## 📞 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zayyadmusa)
-- 📧 zayyadmusa@gmail.com
+- 📧 zayyadidris294@gmail.com
 - 🌐 [Personal Website/Portfolio](https://github.com/zayyadi) (coming soon)
 
 ---
